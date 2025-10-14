@@ -1,13 +1,22 @@
 ---
-layout: single
 title: "Editorial Portfolio"
-permalink: /
+layout: single
 ---
 
-Welcome to my writing and scientific communication work. Below are representative samples.
+Welcome — this is a focused collection of my **scientific writing and editorial work**.
 
-{% assign items = site.posts | sort: "date" | reverse %}
-{% for item in items %}
-- [{{ item.title }}]({{ item.url }}) — <small>{{ item.date | date: "%b %d, %Y" }}</small><br/>
-  {{ item.excerpt }}
-{% endfor %}
+## Samples
+- **Mini-Review — RNA 5hmC**  
+  <a class="btn" href="./mini-review.md">Read sample →</a>
+
+- **Before/After Edit — Abstract Tightening**  
+  <a class="btn" href="./edit-sample.md">See edit →</a>
+
+- **Editorial Style Guide (Principles)**  
+  <a class="btn" href="./style-guide.md">View guide →</a>
+
+---
+
+<p>
+  <a class="btn" href="https://ipekselcen.github.io">← Back to main site</a>
+</p>
