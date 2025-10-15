@@ -23,8 +23,3 @@ defaults:
     values:
       layout: single
 
-footer:
-  links:
-    - label: "← Back to main site"
-      url: "https://ipekselcen.github.io"
-
