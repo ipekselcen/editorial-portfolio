@@ -2,7 +2,8 @@
 title: "Editorial Portfolio"
 layout: single
 permalink: /
-author_profile: false
+author_profile: true
+author: ipek
 classes: wide
 toc: false
 description: "Selected scientific writing and editorial samples by Ipek Selcen."
