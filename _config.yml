@@ -1,25 +1,10 @@
-title: "Ipek Selcen - Editorial Portfolio"
-description: "Writing, mini-reviews, and scientific editing samples."
-url: "https://ipekselcen.github.io"  
-baseurl: "/editorial-portfolio"    
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+title: "Editorial Portfolio — Ipek Selcen"
+description: "Selected scientific writing and editorial samples."
 
 plugins:
-  - jekyll-remote-theme
   - jekyll-include-cache
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap 
+  - jekyll-sitemap
 
-markdown: kramdown
-kramdown:
-  input: GFM
-
-minimal_mistakes_skin: "default"
-
-defaults:
-  - scope: { path: "" }
-    values:
-      layout: single
-
+# optional: header link back to main site
