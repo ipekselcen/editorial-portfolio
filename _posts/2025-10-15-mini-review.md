@@ -1,6 +1,6 @@
 ---
 title: "Mini-Review — RNA 5hmC"
-classes: wide cv-page
+classes: wide
 toc: false
 order: 1
 kind: "Mini-review"
