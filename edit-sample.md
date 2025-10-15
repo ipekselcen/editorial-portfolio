@@ -1,3 +1,9 @@
+---
+title: "Before/After Edit — Abstract Tightening"
+layout: single
+permalink: /edit-sample/
+---
+
 # Before/After Edit — Abstract Tightening
 
 **Before → After**  
