@@ -1,7 +1,7 @@
 ---
 title: Projects
-layout: posts
-permalink: /
+layout: single
+permalink: /projects/
 classes: wide
 ---
 
