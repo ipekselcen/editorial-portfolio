@@ -1,0 +1,18 @@
+ipek:
+  name: "Ipek Selcen"
+  avatar: "/assets/images/IMG_6116.jpg"
+  bio: "Molecular biologist exploring bioinformatics. Clear science writing, reproducible analysis."
+  location: "NY, USA"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:ipekselcen@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ipekselcen"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ipek-selcen-16516948/"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0001-7614-1780"
