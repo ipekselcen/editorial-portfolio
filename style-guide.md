@@ -1,3 +1,9 @@
+---
+title: "Editorial Style Guide (Principles)"
+layout: single
+permalink: /style-guide/
+---
+
 # Editorial Style Guide (Principles)
 
 **Audience-first clarity**
