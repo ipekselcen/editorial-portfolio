@@ -7,4 +7,14 @@ plugins:
   - jekyll-include-cache
   - jekyll-sitemap
 
-# optional: header link back to main site
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+      classes: wide
+      toc: false
+
+academicons: true
